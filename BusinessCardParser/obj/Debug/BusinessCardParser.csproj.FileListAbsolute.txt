@@ -1,0 +1,18 @@
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.exe.config
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.exe
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.pdb
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.csprojResolveAssemblyReference.cache
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.Properties.Resources.resources
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.csproj.GenerateResource.Cache
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.exe
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.pdb
+\\ai-vmdc1\redirectedfolders\dlucas\documents\visual studio 2012\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.businessCardParserForm.resources
+C:\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.exe.config
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.exe
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.pdb
+C:\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.exe
+C:\Projects\BusinessCardParser\BusinessCardParser\bin\Debug\BusinessCardParser.pdb
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.businessCardParserForm.resources
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.Properties.Resources.resources
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.csproj.GenerateResource.Cache
+C:\Projects\BusinessCardParser\BusinessCardParser\obj\Debug\BusinessCardParser.csprojResolveAssemblyReference.cache
