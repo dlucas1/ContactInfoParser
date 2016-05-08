@@ -1,8 +1,16 @@
 Hello! Thanks for reading me!
 
-INSTRUCTIONS to run BusinessCardParser C# Windows Form Application:
+SUMMARY:
 
-First, verify that the app.config is setup correctly by modifying it in Notepad/Notepad++:
+This application parses input for business cards that have been processed through an optical image recognition smartphone application.
+Results of the OCR application are available in an input folder as defined in the app.config file.
+This application reads each file in the app.config InputFileFolder of the extension specified in the app.config InputFileExtension. 
+The application then parses the content to find the name, phone number, and email address. 
+The parsed results are ouputted to the GUI textbox.
+
+INSTRUCTIONS:
+
+In order to run BusinessCardParser C# Windows Form Application, first, verify that the app.config is setup correctly by modifying it in Notepad/Notepad++.
 
 Here is how the app.config is currently setup:
 
